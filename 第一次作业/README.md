@@ -14,7 +14,7 @@
 ## 文件结构
 
 ```
-lab1/
+第一次作业/
 ├── dorm_manager.py    # 主程序，控制台菜单与功能实现
 ├── students.json      # 学生信息数据文件（程序首次运行后自动生成）
 ├── README.md
@@ -30,7 +30,7 @@ lab1/
 1. 打开终端，进入项目目录：
 
    ```bash
-   cd lab1
+   cd 第一次作业
    python dorm_manager.py
    ```
 2. 启动后会出现主菜单：
