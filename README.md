@@ -19,7 +19,7 @@
 ├── 第一次作业/            # 第一次作业
 │   ├── dorm_manager.py
 │   ├── students.json
-│   └── README.md          # 作业说明/运行方法
+│   └── README.md
 ├── 第二次作业/            # 第二次作业（房价数据预处理）
 │   ├── data/
 │   │   ├── data_description.txt
@@ -35,6 +35,22 @@
 │   │   └── table4.png
 │   ├── lab2.ipynb
 │   └── README.md
+├── 第三次作业/            # 第三次作业（ESI 数据分析与可视化）
+│   ├── analysis.py
+│   ├── scrape-esi.js
+│   ├── csv/
+│   │   ├── esi_fields_of_East_China_Normal_University.csv
+│   │   ├── esi_institutions_by_*.csv
+│   │   ├── df_sorted_by_citations.csv
+│   │   └── df_sorted_by_cpp.csv
+│   ├── pictures/
+│   │   ├── citations_by_discipline.png
+│   │   ├── citations_per_paper_by_discipline.png
+│   │   └── citations_vs_cpp_scatter.png
+│   ├── package.json
+│   ├── package-lock.json
+│   └── README.md
+
 ````
 
 ---
@@ -45,6 +61,7 @@
 | ----- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Lab 1 | 第一次作业 | 宿舍管理程序：读取学生信息、实现基本增删查改功能                                                                                                                                                                                                                                                                                                   |
 | Lab 2 | 第二次作业 | 房价数据预处理：缺失值检测与填充，特征分析。 |
+| Lab 3 | 第三次作业 | ESI 数据分析与可视化：对学科与机构的引文数据进行统计与可视化展示。 |
 
 ---
 
