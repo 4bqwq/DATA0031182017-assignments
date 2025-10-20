@@ -50,6 +50,30 @@
 │   ├── package.json
 │   ├── package-lock.json
 │   └── README.md
+├── 第四次作业/            # 第四次作业（全球大学排名数据 SQL 分析）
+│   ├── create_tables.sql
+│   ├── insert_fields.sql
+│   ├── create_staging_table.sql
+│   ├── migrate_universities.sql
+│   ├── migrate_rankings.sql
+│   ├── query_ecnu_rankings.sql
+│   ├── query_china_performance.sql
+│   ├── query_global_analysis.sql
+│   ├── query_top_regions.sql
+│   ├── verification_queries.sql
+│   ├── docker-compose.yml
+│   ├── import_data.sh
+│   ├── download/
+│   │   └── *.csv
+│   ├── pictures/
+│   │   ├── original_csv_format.png
+│   │   ├── database_tables.png
+│   │   ├── data_import_complete.png
+│   │   ├── ecnu_rankings.png
+│   │   ├── china_performance.png
+│   │   ├── global_analysis_basic.png
+│   │   └── global_analysis_advanced.png
+│   └── README.md
 
 ````
 
@@ -57,11 +81,12 @@
 
 ## 作业列表
 
-| 作业编号  | 文件夹   | 内容简介                                                                                                                                                                                                                                                                                                                       |
-| ----- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Lab 1 | 第一次作业 | 宿舍管理程序：读取学生信息、实现基本增删查改功能                                                                                                                                                                                                                                                                                                   |
-| Lab 2 | 第二次作业 | 房价数据预处理：缺失值检测与填充，特征分析。 |
-| Lab 3 | 第三次作业 | ESI 数据分析与可视化：对学科与机构的引文数据进行统计与可视化展示。 |
+| 作业编号 | 文件夹     | 内容简介                                                     |
+| -------- | ---------- | ------------------------------------------------------------ |
+| Lab 1    | 第一次作业 | 宿舍管理程序：读取学生信息、实现基本增删查改功能             |
+| Lab 2    | 第二次作业 | 房价数据预处理：缺失值检测与填充，特征分析。                 |
+| Lab 3    | 第三次作业 | ESI 数据分析与可视化：对学科与机构的引文数据进行统计与可视化展示。 |
+| Lab 4    | 第四次作业 | 全球大学排名数据 SQL 分析：使用 PostgreSQL 数据库进行数据建模、导入和多维度查询分析。 |
 
 ---
 

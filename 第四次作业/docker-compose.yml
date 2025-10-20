@@ -1,0 +1,22 @@
+version: "3.8"
+services:
+  db:
+    image: postgres:16
+    container_name: lab4-postgres
+    environment:
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+      POSTGRES_DB: rankings
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./download:/data:ro
+      - ./pgdata:/var/lib/postgresql/data
+  adminer:
+    image: adminer:4
+    container_name: lab4-adminer
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+
