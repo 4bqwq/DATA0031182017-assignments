@@ -74,6 +74,22 @@
 │   │   ├── global_analysis_basic.png
 │   │   └── global_analysis_advanced.png
 │   └── README.md
+├── 第五次作业/            # 第五次作业（全球高校聚类分析与排名预测）
+│   ├── download/
+│   │   └── *.csv
+│   ├── pyproject.toml
+│   ├── uv.lock
+│   ├── q8_university_clustering.py
+│   ├── q8_cluster_analysis.py
+│   ├── q9_ecnu_analysis.py
+│   ├── q9_visualization.py
+│   ├── q9_final_summary.py
+│   ├── q10_ranking_prediction.py
+│   ├── q10_model_analysis.py
+│   ├── ecnu_analysis.png
+│   ├── university_clusters.png
+│   ├── model_analysis.png
+│   └── README.md
 
 ````
 
@@ -87,6 +103,7 @@
 | Lab 2    | 第二次作业 | 房价数据预处理：缺失值检测与填充，特征分析。                 |
 | Lab 3    | 第三次作业 | ESI 数据分析与可视化：对学科与机构的引文数据进行统计与可视化展示。 |
 | Lab 4    | 第四次作业 | 全球大学排名数据 SQL 分析：使用 PostgreSQL 数据库进行数据建模、导入和多维度查询分析。 |
+| Lab 5    | 第五次作业 | 全球高校聚类分析与排名预测：使用机器学习算法对全球高校进行分类分析，华东师范大学学科画像分析，以及学科排名预测模型构建。 |
 
 ---
 
