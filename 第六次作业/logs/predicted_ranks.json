@@ -1,0 +1,81 @@
+{
+  "generated_at": "2025-11-03T05:44:54.322466+00:00",
+  "model_path": "models/ranking_model.pt",
+  "data_json": "data/cleaned_records.json",
+  "filters": {
+    "institutions": [
+      "SHANGHAI JIAO TONG UNIVERSITY"
+    ],
+    "discipline": null,
+    "record_json": null,
+    "sample_rows": 5
+  },
+  "stats": {
+    "count": 5,
+    "mse": 54.56711703220208,
+    "mae": 6.104718780517578,
+    "mape": 7.681279519937985
+  },
+  "records": [
+    {
+      "Institution": "SHANGHAI JIAO TONG UNIVERSITY",
+      "Discipline": "AGRICULTURAL SCIENCES",
+      "Country": "CHINA MAINLAND",
+      "Documents": 2268,
+      "Citations": 42444,
+      "CitationsPerPaper": 18.71,
+      "TopPapers": 38,
+      "PredictedRank": 79.06010437011719,
+      "Rank": 92,
+      "AbsoluteError": 12.939895629882812
+    },
+    {
+      "Institution": "SHANGHAI JIAO TONG UNIVERSITY",
+      "Discipline": "PHYSICS",
+      "Country": "CHINA MAINLAND",
+      "Documents": 12082,
+      "Citations": 234416,
+      "CitationsPerPaper": 19.4,
+      "TopPapers": 244,
+      "PredictedRank": 45.88246154785156,
+      "Rank": 45,
+      "AbsoluteError": 0.8824615478515625
+    },
+    {
+      "Institution": "SHANGHAI JIAO TONG UNIVERSITY",
+      "Discipline": "NEUROSCIENCE & BEHAVIOR",
+      "Country": "CHINA MAINLAND",
+      "Documents": 4401,
+      "Citations": 89650,
+      "CitationsPerPaper": 20.37,
+      "TopPapers": 71,
+      "PredictedRank": 146.3103790283203,
+      "Rank": 143,
+      "AbsoluteError": 3.3103790283203125
+    },
+    {
+      "Institution": "SHANGHAI JIAO TONG UNIVERSITY",
+      "Discipline": "BIOLOGY & BIOCHEMISTRY",
+      "Country": "CHINA MAINLAND",
+      "Documents": 8911,
+      "Citations": 181585,
+      "CitationsPerPaper": 20.38,
+      "TopPapers": 126,
+      "PredictedRank": 34.8903923034668,
+      "Rank": 43,
+      "AbsoluteError": 8.109607696533203
+    },
+    {
+      "Institution": "SHANGHAI JIAO TONG UNIVERSITY",
+      "Discipline": "GEOSCIENCES",
+      "Country": "CHINA MAINLAND",
+      "Documents": 1913,
+      "Citations": 26063,
+      "CitationsPerPaper": 13.62,
+      "TopPapers": 28,
+      "PredictedRank": 432.71875,
+      "Rank": 438,
+      "AbsoluteError": 5.28125
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+[project]
+name = "lab6-ranking"
+version = "0.1.0"
+description = "Ranking prediction and ESI clustering for lab6 assignment."
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.7",
+    "numpy>=2.3.4",
+    "pandas>=2.3.3",
+    "rich>=14.2.0",
+    "scikit-learn>=1.7.2",
+    "scikit-learn-extra>=0.3.0",
+    "torch>=2.9.0",
+    "torchmetrics>=1.8.2",
+    "typer>=0.20.0",
+    "umap-learn>=0.5.9.post2",
+]
+
+[tool.uv]

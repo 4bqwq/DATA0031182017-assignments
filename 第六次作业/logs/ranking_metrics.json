@@ -1,0 +1,36 @@
+{
+  "train": {
+    "mse": 21404.658203125,
+    "rmse": 146.30331420898438,
+    "mape": 4.537338733673096,
+    "mae": 71.42515563964844
+  },
+  "validation": {
+    "mse": 25700.65234375,
+    "rmse": 160.31422424316406,
+    "mape": 6.356030464172363,
+    "mae": 77.70306396484375
+  },
+  "test": {
+    "mse": 25753.033203125,
+    "rmse": 160.47752380371094,
+    "mape": 6.877938747406006,
+    "mae": 76.6088638305664
+  },
+  "best_val_mse": 20891.7578125,
+  "epochs": 60,
+  "dataset_source": "data/cleaned_records.json",
+  "split_sizes": {
+    "train": 20472,
+    "validation": 6824,
+    "test": 6825
+  },
+  "batch_size": 512,
+  "learning_rate": 0.0003,
+  "model_config": {
+    "hidden_dim": 192,
+    "num_residual_blocks": 4,
+    "cross_layers": 2,
+    "dropout": 0.2
+  }
+}

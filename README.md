@@ -90,6 +90,42 @@
 │   ├── university_clusters.png
 │   ├── model_analysis.png
 │   └── README.md
+├── 第六次作业/            # 第六次作业（科研机构排名预测与聚类分析）
+│   ├── download/
+│   │   └── *.csv
+│   ├── data/
+│   │   ├── cleaned_records.json
+│   │   ├── institution_summary.json
+│   │   └── cleaned_records.meta.json
+│   ├── src/
+│   │   ├── data_processing.py
+│   │   ├── ranking_data.py
+│   │   └── ranking_model.py
+│   ├── scripts/
+│   │   ├── export_data.py
+│   │   ├── train_ranking.py
+│   │   ├── predict_rank.py
+│   │   └── cluster_institutions.py
+│   ├── models/
+│   │   └── ranking_model.pt
+│   ├── logs/
+│   │   ├── ranking_metrics.json
+│   │   ├── predicted_ranks.json
+│   │   ├── cluster_similar_ecnu.json
+│   │   └── cluster_assignments.json
+│   ├── pictures/
+│   │   ├── export_data_cleaned_json_preview.png
+│   │   ├── pipline.png
+│   │   ├── train-console.png
+│   │   ├── predicted_ranks_ecnu.png
+│   │   ├── predicted_ranks_thu.png
+│   │   ├── predicted_ranks_sjtu.png
+│   │   ├── ecnu-ranking-bar.png
+│   │   ├── cluster_result.png
+│   │   └── cluster-scatter.png
+│   ├── pyproject.toml
+│   ├── uv.lock
+│   └── README.md
 
 ````
 
@@ -104,6 +140,7 @@
 | Lab 3    | 第三次作业 | ESI 数据分析与可视化：对学科与机构的引文数据进行统计与可视化展示。 |
 | Lab 4    | 第四次作业 | 全球大学排名数据 SQL 分析：使用 PostgreSQL 数据库进行数据建模、导入和多维度查询分析。 |
 | Lab 5    | 第五次作业 | 全球高校聚类分析与排名预测：使用机器学习算法对全球高校进行分类分析，华东师范大学学科画像分析，以及学科排名预测模型构建。 |
+| Lab 6    | 第六次作业 | 科研机构排名预测与聚类分析：基于 ESI 学科数据，使用带嵌入层和残差结构的神经网络模型进行排名预测，并结合机构统计特征进行 KMeans 聚类分析。 |
 
 ---
 

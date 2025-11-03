@@ -1,0 +1,2128 @@
+{
+  "target_institution": "EAST CHINA NORMAL UNIVERSITY",
+  "cluster_id": 8,
+  "parameters": {
+    "n_clusters": 12,
+    "min_disciplines": 8,
+    "features": [
+      "Rank",
+      "BestRank",
+      "MedianRank",
+      "Documents",
+      "Citations",
+      "CitationsPerPaper",
+      "TopPapers",
+      "DisciplineCount"
+    ]
+  },
+  "peers": [
+    {
+      "institution": "EAST CHINA NORMAL UNIVERSITY",
+      "country": "CHINA MAINLAND",
+      "avg_rank": 601.7647058823529,
+      "best_rank": 90.0,
+      "median_rank": 395.0,
+      "discipline_count": 17,
+      "distance": 0.0
+    },
+    {
+      "institution": "UNIVERSITY OF QUEBEC",
+      "country": "CANADA",
+      "avg_rank": 536.7647058823529,
+      "best_rank": 133.0,
+      "median_rank": 387.0,
+      "discipline_count": 17,
+      "distance": 0.4864416685317765
+    },
+    {
+      "institution": "CAIRO UNIVERSITY",
+      "country": "EGYPT",
+      "avg_rank": 516.0588235294117,
+      "best_rank": 58.0,
+      "median_rank": 419.0,
+      "discipline_count": 17,
+      "distance": 0.4957371962170269
+    },
+    {
+      "institution": "KYUNG HEE UNIVERSITY",
+      "country": "SOUTH KOREA",
+      "avg_rank": 520.0,
+      "best_rank": 134.0,
+      "median_rank": 513.0,
+      "discipline_count": 17,
+      "distance": 0.5172457076740278
+    },
+    {
+      "institution": "UNITED STATES DEPARTMENT OF DEFENSE",
+      "country": "USA",
+      "avg_rank": 497.44444444444446,
+      "best_rank": 124.0,
+      "median_rank": 413.5,
+      "discipline_count": 18,
+      "distance": 0.5296398555015281
+    },
+    {
+      "institution": "UNIVERSITY OF WOLLONGONG",
+      "country": "AUSTRALIA",
+      "avg_rank": 576.625,
+      "best_rank": 85.0,
+      "median_rank": 392.5,
+      "discipline_count": 16,
+      "distance": 0.5393757155083
+    },
+    {
+      "institution": "IOWA STATE UNIVERSITY",
+      "country": "USA",
+      "avg_rank": 553.9444444444445,
+      "best_rank": 76.0,
+      "median_rank": 344.0,
+      "discipline_count": 18,
+      "distance": 0.5472167242366878
+    },
+    {
+      "institution": "NAGOYA UNIVERSITY",
+      "country": "JAPAN",
+      "avg_rank": 573.8823529411765,
+      "best_rank": 145.0,
+      "median_rank": 490.0,
+      "discipline_count": 17,
+      "distance": 0.5539774059968496
+    },
+    {
+      "institution": "DELFT UNIVERSITY OF TECHNOLOGY",
+      "country": "NETHERLANDS",
+      "avg_rank": 614.3888888888889,
+      "best_rank": 49.0,
+      "median_rank": 400.5,
+      "discipline_count": 18,
+      "distance": 0.5676958936846799
+    },
+    {
+      "institution": "UNIVERSITY OF GRANADA",
+      "country": "SPAIN",
+      "avg_rank": 479.27777777777777,
+      "best_rank": 85.0,
+      "median_rank": 363.0,
+      "discipline_count": 18,
+      "distance": 0.5685409485706325
+    },
+    {
+      "institution": "UNIVERSITE DE STRASBOURG",
+      "country": "FRANCE",
+      "avg_rank": 573.2777777777778,
+      "best_rank": 125.0,
+      "median_rank": 422.5,
+      "discipline_count": 18,
+      "distance": 0.5812989153692933
+    },
+    {
+      "institution": "UNIVERSITY OF BASQUE COUNTRY",
+      "country": "SPAIN",
+      "avg_rank": 509.3529411764706,
+      "best_rank": 152.0,
+      "median_rank": 444.0,
+      "discipline_count": 17,
+      "distance": 0.5830342952112509
+    },
+    {
+      "institution": "UNIVERSITY OF MANITOBA",
+      "country": "CANADA",
+      "avg_rank": 525.0588235294117,
+      "best_rank": 173.0,
+      "median_rank": 414.0,
+      "discipline_count": 17,
+      "distance": 0.603881716398479
+    },
+    {
+      "institution": "UNIVERSITY OF BELGRADE",
+      "country": "SERBIA",
+      "avg_rank": 503.7647058823529,
+      "best_rank": 132.0,
+      "median_rank": 490.0,
+      "discipline_count": 17,
+      "distance": 0.6072904306619754
+    },
+    {
+      "institution": "UNIVERSITI MALAYA",
+      "country": "MALAYSIA",
+      "avg_rank": 540.8947368421053,
+      "best_rank": 80.0,
+      "median_rank": 504.0,
+      "discipline_count": 19,
+      "distance": 0.6134576686594431
+    },
+    {
+      "institution": "HANYANG UNIVERSITY",
+      "country": "SOUTH KOREA",
+      "avg_rank": 668.9411764705883,
+      "best_rank": 99.0,
+      "median_rank": 570.0,
+      "discipline_count": 17,
+      "distance": 0.6257342637595324
+    },
+    {
+      "institution": "QINGDAO UNIVERSITY",
+      "country": "CHINA MAINLAND",
+      "avg_rank": 501.6875,
+      "best_rank": 121.0,
+      "median_rank": 494.0,
+      "discipline_count": 16,
+      "distance": 0.6359985116494908
+    },
+    {
+      "institution": "UNIVERSITY OF BERGEN",
+      "country": "NORWAY",
+      "avg_rank": 569.6111111111111,
+      "best_rank": 134.0,
+      "median_rank": 408.5,
+      "discipline_count": 18,
+      "distance": 0.6414154984356126
+    },
+    {
+      "institution": "UNIVERSITY OF SOUTHERN DENMARK",
+      "country": "DENMARK",
+      "avg_rank": 562.3529411764706,
+      "best_rank": 160.0,
+      "median_rank": 386.0,
+      "discipline_count": 17,
+      "distance": 0.6426373792975576
+    },
+    {
+      "institution": "UNIVERSITY OF MIAMI",
+      "country": "USA",
+      "avg_rank": 595.4444444444445,
+      "best_rank": 152.0,
+      "median_rank": 458.5,
+      "discipline_count": 18,
+      "distance": 0.6542944679767779
+    },
+    {
+      "institution": "UNIVERSITES DE STRASBOURG ETABLISSEMENTS ASSOCIES",
+      "country": "FRANCE",
+      "avg_rank": 545.7894736842105,
+      "best_rank": 99.0,
+      "median_rank": 409.0,
+      "discipline_count": 19,
+      "distance": 0.66264580550382
+    },
+    {
+      "institution": "SOUTHWEST UNIVERSITY - CHINA",
+      "country": "CHINA MAINLAND",
+      "avg_rank": 680.1666666666666,
+      "best_rank": 59.0,
+      "median_rank": 497.5,
+      "discipline_count": 18,
+      "distance": 0.6637828849065801
+    },
+    {
+      "institution": "HEBREW UNIVERSITY OF JERUSALEM",
+      "country": "ISRAEL",
+      "avg_rank": 499.5,
+      "best_rank": 188.0,
+      "median_rank": 361.0,
+      "discipline_count": 18,
+      "distance": 0.6724194184484442
+    },
+    {
+      "institution": "HOKKAIDO UNIVERSITY",
+      "country": "JAPAN",
+      "avg_rank": 499.3333333333333,
+      "best_rank": 158.0,
+      "median_rank": 443.0,
+      "discipline_count": 18,
+      "distance": 0.6850632291965044
+    },
+    {
+      "institution": "UNIVERSITY OF CAPE TOWN",
+      "country": "SOUTH AFRICA",
+      "avg_rank": 560.3125,
+      "best_rank": 90.0,
+      "median_rank": 380.0,
+      "discipline_count": 16,
+      "distance": 0.6861768885386433
+    },
+    {
+      "institution": "NATIONAL & KAPODISTRIAN UNIVERSITY OF ATHENS",
+      "country": "GREECE",
+      "avg_rank": 530.5882352941177,
+      "best_rank": 132.0,
+      "median_rank": 536.0,
+      "discipline_count": 17,
+      "distance": 0.6878504335338808
+    },
+    {
+      "institution": "COMSATS UNIVERSITY ISLAMABAD (CUI)",
+      "country": "PAKISTAN",
+      "avg_rank": 652.6,
+      "best_rank": 105.0,
+      "median_rank": 460.0,
+      "discipline_count": 15,
+      "distance": 0.6932388775024478
+    },
+    {
+      "institution": "SOUTHERN UNIVERSITY OF SCIENCE & TECHNOLOGY",
+      "country": "CHINA MAINLAND",
+      "avg_rank": 673.3529411764706,
+      "best_rank": 78.0,
+      "median_rank": 594.0,
+      "discipline_count": 17,
+      "distance": 0.6991956904225474
+    },
+    {
+      "institution": "NANCHANG UNIVERSITY",
+      "country": "CHINA MAINLAND",
+      "avg_rank": 603.2777777777778,
+      "best_rank": 30.0,
+      "median_rank": 566.5,
+      "discipline_count": 18,
+      "distance": 0.7138401608705585
+    },
+    {
+      "institution": "FLORIDA STATE UNIVERSITY",
+      "country": "USA",
+      "avg_rank": 572.0625,
+      "best_rank": 76.0,
+      "median_rank": 551.5,
+      "discipline_count": 16,
+      "distance": 0.7266848457907328
+    },
+    {
+      "institution": "TEHRAN UNIVERSITY OF MEDICAL SCIENCES",
+      "country": "IRAN",
+      "avg_rank": 524.8,
+      "best_rank": 22.0,
+      "median_rank": 363.0,
+      "discipline_count": 15,
+      "distance": 0.73007064020268
+    },
+    {
+      "institution": "MINIST EDUC",
+      "country": "nan",
+      "avg_rank": 542.3888888888889,
+      "best_rank": 108.0,
+      "median_rank": 500.5,
+      "discipline_count": 18,
+      "distance": 0.7310795592894419
+    },
+    {
+      "institution": "AUTONOMOUS UNIVERSITY OF MADRID",
+      "country": "SPAIN",
+      "avg_rank": 495.7368421052632,
+      "best_rank": 106.0,
+      "median_rank": 486.0,
+      "discipline_count": 19,
+      "distance": 0.7387378483671951
+    },
+    {
+      "institution": "UNIVERSITY OF COLOGNE",
+      "country": "GERMANY (FED REP GER)",
+      "avg_rank": 537.6470588235294,
+      "best_rank": 172.0,
+      "median_rank": 320.0,
+      "discipline_count": 17,
+      "distance": 0.7398811442747859
+    },
+    {
+      "institution": "LEIPZIG UNIVERSITY",
+      "country": "GERMANY (FED REP GER)",
+      "avg_rank": 546.9375,
+      "best_rank": 174.0,
+      "median_rank": 517.5,
+      "discipline_count": 16,
+      "distance": 0.7403597064698056
+    },
+    {
+      "institution": "UNIVERSIDADE DE COIMBRA",
+      "country": "PORTUGAL",
+      "avg_rank": 567.8888888888889,
+      "best_rank": 135.0,
+      "median_rank": 541.0,
+      "discipline_count": 18,
+      "distance": 0.7432084054795425
+    },
+    {
+      "institution": "UNIVERSITY OF HOUSTON SYSTEM",
+      "country": "USA",
+      "avg_rank": 621.8125,
+      "best_rank": 153.0,
+      "median_rank": 517.0,
+      "discipline_count": 16,
+      "distance": 0.7469943012001548
+    },
+    {
+      "institution": "UNIVERSITY OF HOUSTON",
+      "country": "USA",
+      "avg_rank": 621.9375,
+      "best_rank": 153.0,
+      "median_rank": 517.5,
+      "discipline_count": 16,
+      "distance": 0.7478476147179954
+    },
+    {
+      "institution": "UNIVERSITY OF SASKATCHEWAN",
+      "country": "CANADA",
+      "avg_rank": 569.9411764705883,
+      "best_rank": 158.0,
+      "median_rank": 516.0,
+      "discipline_count": 17,
+      "distance": 0.750934398799703
+    },
+    {
+      "institution": "JOHANNES GUTENBERG UNIVERSITY OF MAINZ",
+      "country": "GERMANY (FED REP GER)",
+      "avg_rank": 615.25,
+      "best_rank": 87.0,
+      "median_rank": 358.0,
+      "discipline_count": 16,
+      "distance": 0.754367328580284
+    },
+    {
+      "institution": "TECHNION ISRAEL INSTITUTE OF TECHNOLOGY",
+      "country": "ISRAEL",
+      "avg_rank": 564.2352941176471,
+      "best_rank": 171.0,
+      "median_rank": 444.0,
+      "discipline_count": 17,
+      "distance": 0.7658016790253541
+    },
+    {
+      "institution": "INSTITUTE OF SCIENCE TOKYO",
+      "country": "JAPAN",
+      "avg_rank": 624.25,
+      "best_rank": 149.0,
+      "median_rank": 546.0,
+      "discipline_count": 16,
+      "distance": 0.7689882202587112
+    },
+    {
+      "institution": "KYUSHU UNIVERSITY",
+      "country": "JAPAN",
+      "avg_rank": 533.0,
+      "best_rank": 180.0,
+      "median_rank": 524.5,
+      "discipline_count": 18,
+      "distance": 0.7757050369251327
+    },
+    {
+      "institution": "UNIVERSIDADE ESTADUAL DE CAMPINAS",
+      "country": "BRAZIL",
+      "avg_rank": 468.55555555555554,
+      "best_rank": 26.0,
+      "median_rank": 418.5,
+      "discipline_count": 18,
+      "distance": 0.7795703131250784
+    },
+    {
+      "institution": "UNIVERSITY OF MISSOURI COLUMBIA",
+      "country": "USA",
+      "avg_rank": 544.0,
+      "best_rank": 109.0,
+      "median_rank": 569.0,
+      "discipline_count": 18,
+      "distance": 0.7812817114509444
+    },
+    {
+      "institution": "UNIVERSITY OF GENOA",
+      "country": "ITALY",
+      "avg_rank": 569.4117647058823,
+      "best_rank": 134.0,
+      "median_rank": 635.0,
+      "discipline_count": 17,
+      "distance": 0.7822062663846179
+    },
+    {
+      "institution": "CATHOLIC UNIVERSITY OF THE SACRED HEART",
+      "country": "ITALY",
+      "avg_rank": 723.1333333333333,
+      "best_rank": 167.0,
+      "median_rank": 512.0,
+      "discipline_count": 15,
+      "distance": 0.7830353127367922
+    },
+    {
+      "institution": "MACQUARIE UNIVERSITY",
+      "country": "AUSTRALIA",
+      "avg_rank": 496.1111111111111,
+      "best_rank": 91.0,
+      "median_rank": 406.5,
+      "discipline_count": 18,
+      "distance": 0.7879103607736776
+    },
+    {
+      "institution": "UNIVERSITY OF HAWAII SYSTEM",
+      "country": "USA",
+      "avg_rank": 620.4444444444445,
+      "best_rank": 88.0,
+      "median_rank": 492.5,
+      "discipline_count": 18,
+      "distance": 0.7902719714239895
+    },
+    {
+      "institution": "UNIVERSITY OF OSAKA",
+      "country": "JAPAN",
+      "avg_rank": 538.0588235294117,
+      "best_rank": 118.0,
+      "median_rank": 370.0,
+      "discipline_count": 17,
+      "distance": 0.7913913606051823
+    },
+    {
+      "institution": "ACADEMIA SINICA - TAIWAN",
+      "country": "TAIWAN",
+      "avg_rank": 710.9411764705883,
+      "best_rank": 128.0,
+      "median_rank": 563.0,
+      "discipline_count": 17,
+      "distance": 0.7916976544795925
+    },
+    {
+      "institution": "HONG KONG UNIVERSITY OF SCIENCE & TECHNOLOGY",
+      "country": "HONG KONG",
+      "avg_rank": 662.125,
+      "best_rank": 62.0,
+      "median_rank": 375.0,
+      "discipline_count": 16,
+      "distance": 0.7929392001764568
+    },
+    {
+      "institution": "UNIVERSITA DEGLI STUDI DI BARI ALDO MORO",
+      "country": "ITALY",
+      "avg_rank": 601.8888888888889,
+      "best_rank": 154.0,
+      "median_rank": 545.0,
+      "discipline_count": 18,
+      "distance": 0.794492776905668
+    },
+    {
+      "institution": "UNIVERSITY OF OTAGO",
+      "country": "NEW ZEALAND",
+      "avg_rank": 659.7647058823529,
+      "best_rank": 177.0,
+      "median_rank": 474.0,
+      "discipline_count": 17,
+      "distance": 0.7954038354431847
+    },
+    {
+      "institution": "QUEENSLAND UNIVERSITY OF TECHNOLOGY (QUT)",
+      "country": "AUSTRALIA",
+      "avg_rank": 456.72222222222223,
+      "best_rank": 117.0,
+      "median_rank": 395.5,
+      "discipline_count": 18,
+      "distance": 0.7963568574756255
+    },
+    {
+      "institution": "UNIV PARIS EST COMUE",
+      "country": "nan",
+      "avg_rank": 543.4444444444445,
+      "best_rank": 179.0,
+      "median_rank": 534.5,
+      "discipline_count": 18,
+      "distance": 0.8028687318662008
+    },
+    {
+      "institution": "UNIVERSITY OF KANSAS",
+      "country": "USA",
+      "avg_rank": 531.3529411764706,
+      "best_rank": 208.0,
+      "median_rank": 503.0,
+      "discipline_count": 17,
+      "distance": 0.8068647947298754
+    },
+    {
+      "institution": "UNIVERSITY OF CINCINNATI",
+      "country": "USA",
+      "avg_rank": 512.2222222222222,
+      "best_rank": 153.0,
+      "median_rank": 425.5,
+      "discipline_count": 18,
+      "distance": 0.8080901647764146
+    },
+    {
+      "institution": "YANGZHOU UNIVERSITY",
+      "country": "CHINA MAINLAND",
+      "avg_rank": 554.5,
+      "best_rank": 61.0,
+      "median_rank": 409.5,
+      "discipline_count": 14,
+      "distance": 0.8086497371313945
+    },
+    {
+      "institution": "COLORADO STATE UNIVERSITY SYSTEM",
+      "country": "USA",
+      "avg_rank": 622.3684210526316,
+      "best_rank": 61.0,
+      "median_rank": 527.0,
+      "discipline_count": 19,
+      "distance": 0.8192111828064776
+    },
+    {
+      "institution": "UNIVERSITY OF MACAU",
+      "country": "MACAU",
+      "avg_rank": 639.6,
+      "best_rank": 66.0,
+      "median_rank": 479.0,
+      "discipline_count": 15,
+      "distance": 0.8241013975569779
+    },
+    {
+      "institution": "COLORADO STATE UNIVERSITY FORT COLLINS",
+      "country": "USA",
+      "avg_rank": 630.1578947368421,
+      "best_rank": 62.0,
+      "median_rank": 530.0,
+      "discipline_count": 19,
+      "distance": 0.8249579268619484
+    },
+    {
+      "institution": "UNIVERSITY OF SOUTH FLORIDA",
+      "country": "USA",
+      "avg_rank": 497.10526315789474,
+      "best_rank": 175.0,
+      "median_rank": 465.0,
+      "discipline_count": 19,
+      "distance": 0.8269678411458207
+    },
+    {
+      "institution": "SHANGHAI UNIVERSITY",
+      "country": "CHINA MAINLAND",
+      "avg_rank": 736.0,
+      "best_rank": 68.0,
+      "median_rank": 452.0,
+      "discipline_count": 15,
+      "distance": 0.8419321491220219
+    },
+    {
+      "institution": "LA TROBE UNIVERSITY",
+      "country": "AUSTRALIA",
+      "avg_rank": 558.625,
+      "best_rank": 179.0,
+      "median_rank": 433.0,
+      "discipline_count": 16,
+      "distance": 0.8526611483389529
+    },
+    {
+      "institution": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL",
+      "country": "BRAZIL",
+      "avg_rank": 573.3888888888889,
+      "best_rank": 161.0,
+      "median_rank": 546.0,
+      "discipline_count": 18,
+      "distance": 0.8532496749366453
+    },
+    {
+      "institution": "KARLSRUHE INSTITUTE OF TECHNOLOGY",
+      "country": "GERMANY (FED REP GER)",
+      "avg_rank": 702.5333333333333,
+      "best_rank": 99.0,
+      "median_rank": 477.0,
+      "discipline_count": 15,
+      "distance": 0.8553643920602414
+    },
+    {
+      "institution": "UNIVERSITY OF MUNSTER",
+      "country": "GERMANY (FED REP GER)",
+      "avg_rank": 506.05263157894734,
+      "best_rank": 150.0,
+      "median_rank": 464.0,
+      "discipline_count": 19,
+      "distance": 0.8703272011278972
+    },
+    {
+      "institution": "VIRGINIA COMMONWEALTH UNIVERSITY",
+      "country": "USA",
+      "avg_rank": 713.6666666666666,
+      "best_rank": 126.0,
+      "median_rank": 562.0,
+      "discipline_count": 15,
+      "distance": 0.8836106856847812
+    },
+    {
+      "institution": "KYUNGPOOK NATIONAL UNIVERSITY (KNU)",
+      "country": "SOUTH KOREA",
+      "avg_rank": 668.3888888888889,
+      "best_rank": 197.0,
+      "median_rank": 471.0,
+      "discipline_count": 18,
+      "distance": 0.8879070559753047
+    },
+    {
+      "institution": "UNIVERSITY OF ROCHESTER",
+      "country": "USA",
+      "avg_rank": 542.9375,
+      "best_rank": 148.0,
+      "median_rank": 419.5,
+      "discipline_count": 16,
+      "distance": 0.9007245059511598
+    },
+    {
+      "institution": "UNIVERSIDADE FEDERAL DE MINAS GERAIS",
+      "country": "BRAZIL",
+      "avg_rank": 549.6470588235294,
+      "best_rank": 213.0,
+      "median_rank": 467.0,
+      "discipline_count": 17,
+      "distance": 0.9049754485576791
+    },
+    {
+      "institution": "HUN-REN",
+      "country": "HUNGARY",
+      "avg_rank": 697.6666666666666,
+      "best_rank": 83.0,
+      "median_rank": 629.0,
+      "discipline_count": 18,
+      "distance": 0.9123504361708789
+    },
+    {
+      "institution": "AALTO UNIVERSITY",
+      "country": "FINLAND",
+      "avg_rank": 743.3125,
+      "best_rank": 106.0,
+      "median_rank": 452.5,
+      "discipline_count": 16,
+      "distance": 0.9137825181214141
+    },
+    {
+      "institution": "UNIVERSITE DE LILLE",
+      "country": "FRANCE",
+      "avg_rank": 469.3157894736842,
+      "best_rank": 223.0,
+      "median_rank": 363.0,
+      "discipline_count": 19,
+      "distance": 0.9139946568224495
+    },
+    {
+      "institution": "STONY BROOK UNIVERSITY",
+      "country": "USA",
+      "avg_rank": 489.27777777777777,
+      "best_rank": 150.0,
+      "median_rank": 421.5,
+      "discipline_count": 18,
+      "distance": 0.9154768605941136
+    },
+    {
+      "institution": "GOETHE UNIVERSITY FRANKFURT",
+      "country": "GERMANY (FED REP GER)",
+      "avg_rank": 498.5625,
+      "best_rank": 222.0,
+      "median_rank": 351.5,
+      "discipline_count": 16,
+      "distance": 0.9181961033253574
+    },
+    {
+      "institution": "OREGON STATE UNIVERSITY",
+      "country": "USA",
+      "avg_rank": 514.1333333333333,
+      "best_rank": 61.0,
+      "median_rank": 457.0,
+      "discipline_count": 15,
+      "distance": 0.9251860990169594
+    },
+    {
+      "institution": "SOUTHERN MEDICAL UNIVERSITY - CHINA",
+      "country": "CHINA MAINLAND",
+      "avg_rank": 635.5333333333333,
+      "best_rank": 38.0,
+      "median_rank": 424.0,
+      "discipline_count": 15,
+      "distance": 0.9252696456505335
+    },
+    {
+      "institution": "UNIVERSITY AT BUFFALO, SUNY",
+      "country": "USA",
+      "avg_rank": 549.8235294117648,
+      "best_rank": 221.0,
+      "median_rank": 489.0,
+      "discipline_count": 17,
+      "distance": 0.9255192692002147
+    },
+    {
+      "institution": "AALBORG UNIVERSITY",
+      "country": "DENMARK",
+      "avg_rank": 777.4666666666667,
+      "best_rank": 53.0,
+      "median_rank": 551.0,
+      "discipline_count": 15,
+      "distance": 0.9272839619051768
+    },
+    {
+      "institution": "UNIVERSITY OF WURZBURG",
+      "country": "GERMANY (FED REP GER)",
+      "avg_rank": 587.3529411764706,
+      "best_rank": 105.0,
+      "median_rank": 387.0,
+      "discipline_count": 17,
+      "distance": 0.936936572848264
+    },
+    {
+      "institution": "UNIVERSITY OF KIEL",
+      "country": "GERMANY (FED REP GER)",
+      "avg_rank": 524.4117647058823,
+      "best_rank": 237.0,
+      "median_rank": 439.0,
+      "discipline_count": 17,
+      "distance": 0.9400374339803733
+    },
+    {
+      "institution": "UNIVERSITY OF CONNECTICUT",
+      "country": "USA",
+      "avg_rank": 430.4,
+      "best_rank": 121.0,
+      "median_rank": 437.5,
+      "discipline_count": 20,
+      "distance": 0.9533650718088402
+    },
+    {
+      "institution": "CITY UNIVERSITY OF NEW YORK (CUNY) SYSTEM",
+      "country": "USA",
+      "avg_rank": 596.0526315789474,
+      "best_rank": 109.0,
+      "median_rank": 599.0,
+      "discipline_count": 19,
+      "distance": 0.9592813335191936
+    },
+    {
+      "institution": "DALHOUSIE UNIVERSITY",
+      "country": "CANADA",
+      "avg_rank": 484.625,
+      "best_rank": 189.0,
+      "median_rank": 423.5,
+      "discipline_count": 16,
+      "distance": 0.9668005032349585
+    },
+    {
+      "institution": "RUHR UNIVERSITY BOCHUM",
+      "country": "GERMANY (FED REP GER)",
+      "avg_rank": 609.7333333333333,
+      "best_rank": 214.0,
+      "median_rank": 567.0,
+      "discipline_count": 15,
+      "distance": 0.9729235862176223
+    },
+    {
+      "institution": "UNIVERSITY OF DUISBURG ESSEN",
+      "country": "GERMANY (FED REP GER)",
+      "avg_rank": 555.2777777777778,
+      "best_rank": 235.0,
+      "median_rank": 532.0,
+      "discipline_count": 18,
+      "distance": 0.9730920179287991
+    },
+    {
+      "institution": "WASHINGTON STATE UNIVERSITY",
+      "country": "USA",
+      "avg_rank": 486.0,
+      "best_rank": 76.0,
+      "median_rank": 447.5,
+      "discipline_count": 18,
+      "distance": 0.9738178096969279
+    },
+    {
+      "institution": "UNIVERSITY OF KENTUCKY",
+      "country": "USA",
+      "avg_rank": 490.36842105263156,
+      "best_rank": 217.0,
+      "median_rank": 445.0,
+      "discipline_count": 19,
+      "distance": 0.9790299507560964
+    },
+    {
+      "institution": "HEINRICH HEINE UNIVERSITY DUSSELDORF",
+      "country": "GERMANY (FED REP GER)",
+      "avg_rank": 612.5714285714286,
+      "best_rank": 125.0,
+      "median_rank": 457.5,
+      "discipline_count": 14,
+      "distance": 0.9811571416767804
+    },
+    {
+      "institution": "TECHNICAL UNIVERSITY OF BERLIN",
+      "country": "GERMANY (FED REP GER)",
+      "avg_rank": 615.9333333333333,
+      "best_rank": 165.0,
+      "median_rank": 474.0,
+      "discipline_count": 15,
+      "distance": 0.98410502663266
+    },
+    {
+      "institution": "FRIEDRICH SCHILLER UNIVERSITY OF JENA",
+      "country": "GERMANY (FED REP GER)",
+      "avg_rank": 555.2352941176471,
+      "best_rank": 222.0,
+      "median_rank": 459.0,
+      "discipline_count": 17,
+      "distance": 0.9866954435862976
+    },
+    {
+      "institution": "JAGIELLONIAN UNIVERSITY",
+      "country": "POLAND",
+      "avg_rank": 665.1111111111111,
+      "best_rank": 234.0,
+      "median_rank": 524.0,
+      "discipline_count": 18,
+      "distance": 0.9878227171729136
+    },
+    {
+      "institution": "UNIV BOURGOGNE FRANCHE-COMTE COMUE",
+      "country": "nan",
+      "avg_rank": 531.6315789473684,
+      "best_rank": 211.0,
+      "median_rank": 550.0,
+      "discipline_count": 19,
+      "distance": 0.9921124459316304
+    },
+    {
+      "institution": "ROYAL INSTITUTE OF TECHNOLOGY",
+      "country": "SWEDEN",
+      "avg_rank": 644.0588235294117,
+      "best_rank": 90.0,
+      "median_rank": 439.0,
+      "discipline_count": 17,
+      "distance": 0.998229974812035
+    },
+    {
+      "institution": "UNIVERSITY OF CALIFORNIA RIVERSIDE",
+      "country": "USA",
+      "avg_rank": 553.1764705882352,
+      "best_rank": 126.0,
+      "median_rank": 450.0,
+      "discipline_count": 17,
+      "distance": 1.0043837621846663
+    },
+    {
+      "institution": "WENZHOU MEDICAL UNIVERSITY",
+      "country": "CHINA MAINLAND",
+      "avg_rank": 819.2,
+      "best_rank": 73.0,
+      "median_rank": 549.0,
+      "discipline_count": 15,
+      "distance": 1.005211949125835
+    },
+    {
+      "institution": "ARISTOTLE UNIVERSITY OF THESSALONIKI",
+      "country": "GREECE",
+      "avg_rank": 559.0588235294117,
+      "best_rank": 252.0,
+      "median_rank": 537.0,
+      "discipline_count": 17,
+      "distance": 1.018398698709392
+    },
+    {
+      "institution": "UNIVERSIDADE FEDERAL DO RIO DE JANEIRO",
+      "country": "BRAZIL",
+      "avg_rank": 540.8235294117648,
+      "best_rank": 226.0,
+      "median_rank": 537.0,
+      "discipline_count": 17,
+      "distance": 1.0221640889670993
+    },
+    {
+      "institution": "UNIVERSIDAD DE CHILE",
+      "country": "CHILE",
+      "avg_rank": 631.8947368421053,
+      "best_rank": 143.0,
+      "median_rank": 587.0,
+      "discipline_count": 19,
+      "distance": 1.0250751521827697
+    },
+    {
+      "institution": "UNIVERSITY OF LIEGE",
+      "country": "BELGIUM",
+      "avg_rank": 581.9444444444445,
+      "best_rank": 199.0,
+      "median_rank": 492.0,
+      "discipline_count": 18,
+      "distance": 1.0260562501926067
+    },
+    {
+      "institution": "COMPLUTENSE UNIVERSITY OF MADRID",
+      "country": "SPAIN",
+      "avg_rank": 453.05,
+      "best_rank": 211.0,
+      "median_rank": 366.5,
+      "discipline_count": 20,
+      "distance": 1.0370876209428275
+    },
+    {
+      "institution": "GRIFFITH UNIVERSITY",
+      "country": "AUSTRALIA",
+      "avg_rank": 424.3333333333333,
+      "best_rank": 88.0,
+      "median_rank": 443.5,
+      "discipline_count": 18,
+      "distance": 1.0371008406418105
+    },
+    {
+      "institution": "LOUISIANA STATE UNIVERSITY",
+      "country": "USA",
+      "avg_rank": 538.8823529411765,
+      "best_rank": 236.0,
+      "median_rank": 446.0,
+      "discipline_count": 17,
+      "distance": 1.0429338906413965
+    },
+    {
+      "institution": "UNIVERSITY OF OKLAHOMA SYSTEM",
+      "country": "USA",
+      "avg_rank": 554.0526315789474,
+      "best_rank": 152.0,
+      "median_rank": 593.0,
+      "discipline_count": 19,
+      "distance": 1.045651206867941
+    },
+    {
+      "institution": "CHINA MEDICAL UNIVERSITY TAIWAN",
+      "country": "TAIWAN",
+      "avg_rank": 664.9411764705883,
+      "best_rank": 8.0,
+      "median_rank": 687.0,
+      "discipline_count": 17,
+      "distance": 1.0466388074575386
+    },
+    {
+      "institution": "UNIVERSITY OF SOUTH CAROLINA SYSTEM",
+      "country": "USA",
+      "avg_rank": 629.0526315789474,
+      "best_rank": 119.0,
+      "median_rank": 598.0,
+      "discipline_count": 19,
+      "distance": 1.0487082653626625
+    },
+    {
+      "institution": "UNIVERSITY OF SOUTH CAROLINA COLUMBIA",
+      "country": "USA",
+      "avg_rank": 629.2631578947369,
+      "best_rank": 120.0,
+      "median_rank": 598.0,
+      "discipline_count": 19,
+      "distance": 1.0495325611913724
+    },
+    {
+      "institution": "INSTITUTO DE SALUD CARLOS III",
+      "country": "SPAIN",
+      "avg_rank": 619.5384615384615,
+      "best_rank": 195.0,
+      "median_rank": 389.0,
+      "discipline_count": 13,
+      "distance": 1.050107458291808
+    },
+    {
+      "institution": "PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE",
+      "country": "CHILE",
+      "avg_rank": 729.5,
+      "best_rank": 153.0,
+      "median_rank": 628.0,
+      "discipline_count": 16,
+      "distance": 1.0522130870399178
+    },
+    {
+      "institution": "UNIVERSITE COTE D'AZUR",
+      "country": "FRANCE",
+      "avg_rank": 712.7058823529412,
+      "best_rank": 92.0,
+      "median_rank": 650.0,
+      "discipline_count": 17,
+      "distance": 1.05328218382378
+    },
+    {
+      "institution": "UNIVERSITY OF ROME TOR VERGATA",
+      "country": "ITALY",
+      "avg_rank": 627.3,
+      "best_rank": 128.0,
+      "median_rank": 609.0,
+      "discipline_count": 20,
+      "distance": 1.0576082189020497
+    },
+    {
+      "institution": "QUEENS UNIVERSITY - CANADA",
+      "country": "CANADA",
+      "avg_rank": 615.0666666666667,
+      "best_rank": 203.0,
+      "median_rank": 617.0,
+      "discipline_count": 15,
+      "distance": 1.066072397810542
+    },
+    {
+      "institution": "LAVAL UNIVERSITY",
+      "country": "CANADA",
+      "avg_rank": 421.27777777777777,
+      "best_rank": 254.0,
+      "median_rank": 352.5,
+      "discipline_count": 18,
+      "distance": 1.0676874551723077
+    },
+    {
+      "institution": "UNIVERSITY OF BUENOS AIRES",
+      "country": "ARGENTINA",
+      "avg_rank": 665.1176470588235,
+      "best_rank": 234.0,
+      "median_rank": 526.0,
+      "discipline_count": 17,
+      "distance": 1.0725806552481083
+    },
+    {
+      "institution": "INSTITUT POLYTECHNIQUE DE PARIS",
+      "country": "FRANCE",
+      "avg_rank": 849.3571428571429,
+      "best_rank": 32.0,
+      "median_rank": 446.0,
+      "discipline_count": 14,
+      "distance": 1.0777522367245644
+    },
+    {
+      "institution": "UNIVERSITY OF SEVILLA",
+      "country": "SPAIN",
+      "avg_rank": 529.0,
+      "best_rank": 198.0,
+      "median_rank": 563.0,
+      "discipline_count": 19,
+      "distance": 1.078754520736609
+    },
+    {
+      "institution": "UNIVERSITY OF YORK - UK",
+      "country": "ENGLAND",
+      "avg_rank": 590.3684210526316,
+      "best_rank": 140.0,
+      "median_rank": 543.0,
+      "discipline_count": 19,
+      "distance": 1.0816011223560984
+    },
+    {
+      "institution": "KOREA ADVANCED INSTITUTE OF SCIENCE & TECHNOLOGY (KAIST)",
+      "country": "SOUTH KOREA",
+      "avg_rank": 675.6428571428571,
+      "best_rank": 74.0,
+      "median_rank": 545.0,
+      "discipline_count": 14,
+      "distance": 1.0837752307974586
+    },
+    {
+      "institution": "DURHAM UNIVERSITY",
+      "country": "ENGLAND",
+      "avg_rank": 668.0714285714286,
+      "best_rank": 89.0,
+      "median_rank": 614.5,
+      "discipline_count": 14,
+      "distance": 1.0844754483572485
+    },
+    {
+      "institution": "GEORGE WASHINGTON UNIVERSITY",
+      "country": "USA",
+      "avg_rank": 712.8333333333334,
+      "best_rank": 122.0,
+      "median_rank": 649.0,
+      "discipline_count": 18,
+      "distance": 1.0895674016592787
+    },
+    {
+      "institution": "UNIVERSITE LIBRE DE BRUXELLES",
+      "country": "BELGIUM",
+      "avg_rank": 585.2941176470588,
+      "best_rank": 173.0,
+      "median_rank": 486.0,
+      "discipline_count": 17,
+      "distance": 1.1034078656338477
+    },
+    {
+      "institution": "UNIVERSITY OF MILANO-BICOCCA",
+      "country": "ITALY",
+      "avg_rank": 704.5,
+      "best_rank": 210.0,
+      "median_rank": 644.0,
+      "discipline_count": 18,
+      "distance": 1.1096214114511873
+    },
+    {
+      "institution": "LOUISIANA STATE UNIVERSITY SYSTEM",
+      "country": "USA",
+      "avg_rank": 413.36842105263156,
+      "best_rank": 223.0,
+      "median_rank": 358.0,
+      "discipline_count": 19,
+      "distance": 1.111018622673016
+    },
+    {
+      "institution": "UNIVERSITY OF NOTRE DAME",
+      "country": "USA",
+      "avg_rank": 706.1428571428571,
+      "best_rank": 156.0,
+      "median_rank": 487.0,
+      "discipline_count": 14,
+      "distance": 1.115768825920258
+    },
+    {
+      "institution": "NORTHWEST A&F UNIVERSITY - CHINA",
+      "country": "CHINA MAINLAND",
+      "avg_rank": 828.1428571428571,
+      "best_rank": 7.0,
+      "median_rank": 493.0,
+      "discipline_count": 14,
+      "distance": 1.1181925694736505
+    },
+    {
+      "institution": "UNIV NANTES ANGERS LE MANS",
+      "country": "nan",
+      "avg_rank": 541.2631578947369,
+      "best_rank": 275.0,
+      "median_rank": 487.0,
+      "discipline_count": 19,
+      "distance": 1.1182716177317173
+    },
+    {
+      "institution": "UNIVERSITY OF TWENTE",
+      "country": "NETHERLANDS",
+      "avg_rank": 617.8666666666667,
+      "best_rank": 167.0,
+      "median_rank": 463.0,
+      "discipline_count": 15,
+      "distance": 1.11903348310981
+    },
+    {
+      "institution": "UNIVERSITY OF PRETORIA",
+      "country": "SOUTH AFRICA",
+      "avg_rank": 687.8571428571429,
+      "best_rank": 100.0,
+      "median_rank": 600.5,
+      "discipline_count": 14,
+      "distance": 1.1264518292645322
+    },
+    {
+      "institution": "LOMONOSOV MOSCOW STATE UNIVERSITY",
+      "country": "RUSSIA",
+      "avg_rank": 522.8666666666667,
+      "best_rank": 50.0,
+      "median_rank": 384.0,
+      "discipline_count": 15,
+      "distance": 1.1510367658625593
+    },
+    {
+      "institution": "ROYAL MELBOURNE INSTITUTE OF TECHNOLOGY (RMIT)",
+      "country": "AUSTRALIA",
+      "avg_rank": 609.5882352941177,
+      "best_rank": 109.0,
+      "median_rank": 726.0,
+      "discipline_count": 17,
+      "distance": 1.151501821171897
+    },
+    {
+      "institution": "HUAZHONG AGRICULTURAL UNIVERSITY",
+      "country": "CHINA MAINLAND",
+      "avg_rank": 864.5714285714286,
+      "best_rank": 18.0,
+      "median_rank": 530.0,
+      "discipline_count": 14,
+      "distance": 1.1642212758923771
+    },
+    {
+      "institution": "STELLENBOSCH UNIVERSITY",
+      "country": "SOUTH AFRICA",
+      "avg_rank": 623.1176470588235,
+      "best_rank": 204.0,
+      "median_rank": 503.0,
+      "discipline_count": 17,
+      "distance": 1.1648980561195243
+    },
+    {
+      "institution": "UNIVERSITY OF PAVIA",
+      "country": "ITALY",
+      "avg_rank": 619.5263157894736,
+      "best_rank": 214.0,
+      "median_rank": 634.0,
+      "discipline_count": 19,
+      "distance": 1.1655983212998577
+    },
+    {
+      "institution": "UNIVERSIDADE ESTADUAL PAULISTA",
+      "country": "BRAZIL",
+      "avg_rank": 535.6666666666666,
+      "best_rank": 62.0,
+      "median_rank": 484.0,
+      "discipline_count": 15,
+      "distance": 1.1656866309532634
+    },
+    {
+      "institution": "UNIVERSITY OF NEWCASTLE",
+      "country": "AUSTRALIA",
+      "avg_rank": 452.52941176470586,
+      "best_rank": 79.0,
+      "median_rank": 388.0,
+      "discipline_count": 17,
+      "distance": 1.1697613793878363
+    },
+    {
+      "institution": "PRES EUROPEAN UNIV BRETAGNE",
+      "country": "nan",
+      "avg_rank": 486.5,
+      "best_rank": 246.0,
+      "median_rank": 454.0,
+      "discipline_count": 20,
+      "distance": 1.1716359954850941
+    },
+    {
+      "institution": "UNIVERSITY OF ARKANSAS SYSTEM",
+      "country": "USA",
+      "avg_rank": 609.3684210526316,
+      "best_rank": 190.0,
+      "median_rank": 646.0,
+      "discipline_count": 19,
+      "distance": 1.1787748409795247
+    },
+    {
+      "institution": "LANCASTER UNIVERSITY",
+      "country": "ENGLAND",
+      "avg_rank": 589.8666666666667,
+      "best_rank": 92.0,
+      "median_rank": 436.0,
+      "discipline_count": 15,
+      "distance": 1.1814721545207376
+    },
+    {
+      "institution": "NEVADA SYSTEM OF HIGHER EDUCATION (NSHE)",
+      "country": "USA",
+      "avg_rank": 674.4666666666667,
+      "best_rank": 209.0,
+      "median_rank": 615.0,
+      "discipline_count": 15,
+      "distance": 1.1849220608999766
+    },
+    {
+      "institution": "TUFTS UNIVERSITY",
+      "country": "USA",
+      "avg_rank": 547.9411764705883,
+      "best_rank": 240.0,
+      "median_rank": 439.0,
+      "discipline_count": 17,
+      "distance": 1.1861844849196788
+    },
+    {
+      "institution": "POLYTECHNIC UNIVERSITY OF MILAN",
+      "country": "ITALY",
+      "avg_rank": 599.5833333333334,
+      "best_rank": 70.0,
+      "median_rank": 494.5,
+      "discipline_count": 12,
+      "distance": 1.1922568908158273
+    },
+    {
+      "institution": "UNIVERSITY OF VICTORIA",
+      "country": "CANADA",
+      "avg_rank": 731.4,
+      "best_rank": 148.0,
+      "median_rank": 602.0,
+      "discipline_count": 15,
+      "distance": 1.1958965522396883
+    },
+    {
+      "institution": "UNIVERSITI SAINS MALAYSIA",
+      "country": "MALAYSIA",
+      "avg_rank": 590.2857142857143,
+      "best_rank": 250.0,
+      "median_rank": 505.0,
+      "discipline_count": 14,
+      "distance": 1.2051515536319302
+    },
+    {
+      "institution": "SIMON FRASER UNIVERSITY",
+      "country": "CANADA",
+      "avg_rank": 720.5882352941177,
+      "best_rank": 173.0,
+      "median_rank": 604.0,
+      "discipline_count": 17,
+      "distance": 1.206667890935894
+    },
+    {
+      "institution": "UNIVERSITE DE LORRAINE",
+      "country": "FRANCE",
+      "avg_rank": 510.42105263157896,
+      "best_rank": 276.0,
+      "median_rank": 475.0,
+      "discipline_count": 19,
+      "distance": 1.2096357959036046
+    },
+    {
+      "institution": "UNIVERSITY OF LEICESTER",
+      "country": "ENGLAND",
+      "avg_rank": 629.375,
+      "best_rank": 146.0,
+      "median_rank": 576.5,
+      "discipline_count": 16,
+      "distance": 1.2125789145174408
+    },
+    {
+      "institution": "UNIVERSITY OF WITWATERSRAND",
+      "country": "SOUTH AFRICA",
+      "avg_rank": 729.3125,
+      "best_rank": 172.0,
+      "median_rank": 733.0,
+      "discipline_count": 16,
+      "distance": 1.21583287764169
+    },
+    {
+      "institution": "LINKOPING UNIVERSITY",
+      "country": "SWEDEN",
+      "avg_rank": 650.4117647058823,
+      "best_rank": 177.0,
+      "median_rank": 678.0,
+      "discipline_count": 17,
+      "distance": 1.2220867151355979
+    },
+    {
+      "institution": "UNIV CLERMONT AUVERGNE ASSOC",
+      "country": "nan",
+      "avg_rank": 701.8235294117648,
+      "best_rank": 232.0,
+      "median_rank": 651.0,
+      "discipline_count": 17,
+      "distance": 1.2239984618425728
+    },
+    {
+      "institution": "JUSTUS LIEBIG UNIVERSITY GIESSEN",
+      "country": "GERMANY (FED REP GER)",
+      "avg_rank": 754.1176470588235,
+      "best_rank": 171.0,
+      "median_rank": 657.0,
+      "discipline_count": 17,
+      "distance": 1.2248182092295643
+    },
+    {
+      "institution": "UMEA UNIVERSITY",
+      "country": "SWEDEN",
+      "avg_rank": 647.7333333333333,
+      "best_rank": 232.0,
+      "median_rank": 506.0,
+      "discipline_count": 15,
+      "distance": 1.2272377820471079
+    },
+    {
+      "institution": "AUBURN UNIVERSITY SYSTEM",
+      "country": "USA",
+      "avg_rank": 746.4666666666667,
+      "best_rank": 187.0,
+      "median_rank": 587.0,
+      "discipline_count": 15,
+      "distance": 1.2321428843169502
+    },
+    {
+      "institution": "AUBURN UNIVERSITY",
+      "country": "USA",
+      "avg_rank": 746.7333333333333,
+      "best_rank": 187.0,
+      "median_rank": 587.0,
+      "discipline_count": 15,
+      "distance": 1.2324286055783271
+    },
+    {
+      "institution": "UNIVERSITI PUTRA MALAYSIA",
+      "country": "MALAYSIA",
+      "avg_rank": 603.4166666666666,
+      "best_rank": 58.0,
+      "median_rank": 477.0,
+      "discipline_count": 12,
+      "distance": 1.2346057453791885
+    },
+    {
+      "institution": "NATIONAL CHENG KUNG UNIVERSITY",
+      "country": "TAIWAN",
+      "avg_rank": 699.4375,
+      "best_rank": 219.0,
+      "median_rank": 656.0,
+      "discipline_count": 16,
+      "distance": 1.2405531273378487
+    },
+    {
+      "institution": "UNIVERSIDADE DE AVEIRO",
+      "country": "PORTUGAL",
+      "avg_rank": 698.4615384615385,
+      "best_rank": 209.0,
+      "median_rank": 457.0,
+      "discipline_count": 13,
+      "distance": 1.2427430568128206
+    },
+    {
+      "institution": "MANSOURA UNIVERSITY",
+      "country": "EGYPT",
+      "avg_rank": 734.0666666666667,
+      "best_rank": 196.0,
+      "median_rank": 632.0,
+      "discipline_count": 15,
+      "distance": 1.2437504294572983
+    },
+    {
+      "institution": "SWINBURNE UNIVERSITY OF TECHNOLOGY",
+      "country": "AUSTRALIA",
+      "avg_rank": 667.4615384615385,
+      "best_rank": 117.0,
+      "median_rank": 388.0,
+      "discipline_count": 13,
+      "distance": 1.2510982300494753
+    },
+    {
+      "institution": "UNIVERSITE DE RENNES",
+      "country": "FRANCE",
+      "avg_rank": 522.0,
+      "best_rank": 269.0,
+      "median_rank": 465.0,
+      "discipline_count": 20,
+      "distance": 1.252384332051752
+    },
+    {
+      "institution": "ULM UNIVERSITY",
+      "country": "GERMANY (FED REP GER)",
+      "avg_rank": 667.7333333333333,
+      "best_rank": 180.0,
+      "median_rank": 620.0,
+      "discipline_count": 15,
+      "distance": 1.2530583556663664
+    },
+    {
+      "institution": "QUEENS UNIVERSITY BELFAST",
+      "country": "NORTHERN IRELAND",
+      "avg_rank": 532.0,
+      "best_rank": 219.0,
+      "median_rank": 495.0,
+      "discipline_count": 19,
+      "distance": 1.2542192401841865
+    },
+    {
+      "institution": "UNIVERSITY OF TURKU",
+      "country": "FINLAND",
+      "avg_rank": 696.4117647058823,
+      "best_rank": 285.0,
+      "median_rank": 494.0,
+      "discipline_count": 17,
+      "distance": 1.2543694240380532
+    },
+    {
+      "institution": "DARTMOUTH COLLEGE",
+      "country": "USA",
+      "avg_rank": 717.4375,
+      "best_rank": 115.0,
+      "median_rank": 592.0,
+      "discipline_count": 16,
+      "distance": 1.2643637982186107
+    },
+    {
+      "institution": "UNIVERSITY OF PERUGIA",
+      "country": "ITALY",
+      "avg_rank": 644.9411764705883,
+      "best_rank": 232.0,
+      "median_rank": 607.0,
+      "discipline_count": 17,
+      "distance": 1.2711496998330984
+    },
+    {
+      "institution": "UNIVERSITY OF GUELPH",
+      "country": "CANADA",
+      "avg_rank": 709.9230769230769,
+      "best_rank": 40.0,
+      "median_rank": 591.0,
+      "discipline_count": 13,
+      "distance": 1.2771805119094266
+    },
+    {
+      "institution": "UNIVERSITY OF NORTH CAROLINA SCHOOL OF MEDICINE",
+      "country": "USA",
+      "avg_rank": 667.5714285714286,
+      "best_rank": 195.0,
+      "median_rank": 358.0,
+      "discipline_count": 14,
+      "distance": 1.2817227956549124
+    },
+    {
+      "institution": "UNIVERSITY OF OULU",
+      "country": "FINLAND",
+      "avg_rank": 709.6428571428571,
+      "best_rank": 127.0,
+      "median_rank": 661.0,
+      "discipline_count": 14,
+      "distance": 1.2826773485121938
+    },
+    {
+      "institution": "RICE UNIVERSITY",
+      "country": "USA",
+      "avg_rank": 721.4375,
+      "best_rank": 147.0,
+      "median_rank": 520.0,
+      "discipline_count": 16,
+      "distance": 1.2880743858812156
+    },
+    {
+      "institution": "TRINITY COLLEGE DUBLIN",
+      "country": "IRELAND",
+      "avg_rank": 527.421052631579,
+      "best_rank": 183.0,
+      "median_rank": 462.0,
+      "discipline_count": 19,
+      "distance": 1.2931607992996805
+    },
+    {
+      "institution": "UNIVERSIDADE NOVA DE LISBOA",
+      "country": "PORTUGAL",
+      "avg_rank": 692.2105263157895,
+      "best_rank": 109.0,
+      "median_rank": 662.0,
+      "discipline_count": 19,
+      "distance": 1.3012376697286192
+    },
+    {
+      "institution": "CARNEGIE MELLON UNIVERSITY",
+      "country": "USA",
+      "avg_rank": 520.8125,
+      "best_rank": 94.0,
+      "median_rank": 293.5,
+      "discipline_count": 16,
+      "distance": 1.3153069835314928
+    },
+    {
+      "institution": "UNIVERSITY OF TSUKUBA",
+      "country": "JAPAN",
+      "avg_rank": 680.3529411764706,
+      "best_rank": 266.0,
+      "median_rank": 640.0,
+      "discipline_count": 17,
+      "distance": 1.3179135260003072
+    },
+    {
+      "institution": "SOUTH CHINA AGRICULTURAL UNIVERSITY",
+      "country": "CHINA MAINLAND",
+      "avg_rank": 970.0,
+      "best_rank": 42.0,
+      "median_rank": 482.5,
+      "discipline_count": 14,
+      "distance": 1.3179273610764748
+    },
+    {
+      "institution": "UNIVERSITY OF DELAWARE",
+      "country": "USA",
+      "avg_rank": 607.5882352941177,
+      "best_rank": 282.0,
+      "median_rank": 468.0,
+      "discipline_count": 17,
+      "distance": 1.3208291999293285
+    },
+    {
+      "institution": "UNIVERSITY OF TASMANIA",
+      "country": "AUSTRALIA",
+      "avg_rank": 545.6923076923077,
+      "best_rank": 82.0,
+      "median_rank": 553.0,
+      "discipline_count": 13,
+      "distance": 1.3324786097911185
+    },
+    {
+      "institution": "TARBIAT MODARES UNIVERSITY",
+      "country": "IRAN",
+      "avg_rank": 687.0714285714286,
+      "best_rank": 235.0,
+      "median_rank": 573.0,
+      "discipline_count": 14,
+      "distance": 1.334856938443495
+    },
+    {
+      "institution": "UNIVERSITY OF LJUBLJANA",
+      "country": "SLOVENIA",
+      "avg_rank": 631.75,
+      "best_rank": 243.0,
+      "median_rank": 574.5,
+      "discipline_count": 20,
+      "distance": 1.3354551392383147
+    },
+    {
+      "institution": "UNIVERSITY OF MARYLAND BALTIMORE",
+      "country": "USA",
+      "avg_rank": 589.0666666666667,
+      "best_rank": 140.0,
+      "median_rank": 262.0,
+      "discipline_count": 15,
+      "distance": 1.3481944265848398
+    },
+    {
+      "institution": "UNIVERSITY OF CATANIA",
+      "country": "ITALY",
+      "avg_rank": 698.0625,
+      "best_rank": 228.0,
+      "median_rank": 711.5,
+      "discipline_count": 16,
+      "distance": 1.360988627860171
+    },
+    {
+      "institution": "WESTERN SYDNEY UNIVERSITY",
+      "country": "AUSTRALIA",
+      "avg_rank": 677.375,
+      "best_rank": 194.0,
+      "median_rank": 524.5,
+      "discipline_count": 16,
+      "distance": 1.3657642647085495
+    },
+    {
+      "institution": "NATIONAL YANG MING CHIAO TUNG UNIVERSITY",
+      "country": "TAIWAN",
+      "avg_rank": 599.4,
+      "best_rank": 283.0,
+      "median_rank": 574.0,
+      "discipline_count": 15,
+      "distance": 1.3726533159367098
+    },
+    {
+      "institution": "UNIVERSITY OF SURREY",
+      "country": "ENGLAND",
+      "avg_rank": 717.4375,
+      "best_rank": 109.0,
+      "median_rank": 772.5,
+      "discipline_count": 16,
+      "distance": 1.3884957443361803
+    },
+    {
+      "institution": "UNIVERSITY OF SOUTH AUSTRALIA",
+      "country": "AUSTRALIA",
+      "avg_rank": 647.0588235294117,
+      "best_rank": 207.0,
+      "median_rank": 565.0,
+      "discipline_count": 17,
+      "distance": 1.3955326815133835
+    },
+    {
+      "institution": "WAYNE STATE UNIVERSITY",
+      "country": "USA",
+      "avg_rank": 614.6666666666666,
+      "best_rank": 331.0,
+      "median_rank": 408.0,
+      "discipline_count": 15,
+      "distance": 1.3990419325640806
+    },
+    {
+      "institution": "UNIVERSITY OF PALERMO",
+      "country": "ITALY",
+      "avg_rank": 687.4,
+      "best_rank": 235.0,
+      "median_rank": 685.0,
+      "discipline_count": 15,
+      "distance": 1.4093675156478873
+    },
+    {
+      "institution": "UNIVERSITY OF READING",
+      "country": "ENGLAND",
+      "avg_rank": 717.5384615384615,
+      "best_rank": 79.0,
+      "median_rank": 556.0,
+      "discipline_count": 13,
+      "distance": 1.4125754666575998
+    },
+    {
+      "institution": "CHALMERS UNIVERSITY OF TECHNOLOGY",
+      "country": "SWEDEN",
+      "avg_rank": 682.2307692307693,
+      "best_rank": 160.0,
+      "median_rank": 517.0,
+      "discipline_count": 13,
+      "distance": 1.421608713881644
+    },
+    {
+      "institution": "UNIVERSITY OF OKLAHOMA - NORMAN",
+      "country": "USA",
+      "avg_rank": 815.3125,
+      "best_rank": 153.0,
+      "median_rank": 665.5,
+      "discipline_count": 16,
+      "distance": 1.4284705401846056
+    },
+    {
+      "institution": "UNIVERSITY OF KWAZULU NATAL",
+      "country": "SOUTH AFRICA",
+      "avg_rank": 652.8823529411765,
+      "best_rank": 272.0,
+      "median_rank": 613.0,
+      "discipline_count": 17,
+      "distance": 1.4311086265943112
+    },
+    {
+      "institution": "UNIVERSITY COLLEGE CORK",
+      "country": "IRELAND",
+      "avg_rank": 700.1176470588235,
+      "best_rank": 116.0,
+      "median_rank": 578.0,
+      "discipline_count": 17,
+      "distance": 1.4387394125357071
+    },
+    {
+      "institution": "UNIVERSITY OF NEW MEXICO",
+      "country": "USA",
+      "avg_rank": 603.25,
+      "best_rank": 291.0,
+      "median_rank": 589.0,
+      "discipline_count": 16,
+      "distance": 1.4419545266847262
+    },
+    {
+      "institution": "TAMPERE UNIVERSITY",
+      "country": "FINLAND",
+      "avg_rank": 740.2666666666667,
+      "best_rank": 256.0,
+      "median_rank": 626.0,
+      "discipline_count": 15,
+      "distance": 1.449328220977884
+    },
+    {
+      "institution": "POMPEU FABRA UNIVERSITY",
+      "country": "SPAIN",
+      "avg_rank": 570.3846153846154,
+      "best_rank": 157.0,
+      "median_rank": 512.0,
+      "discipline_count": 13,
+      "distance": 1.4679047131646434
+    },
+    {
+      "institution": "UNIVERSITY OF ABERDEEN",
+      "country": "SCOTLAND",
+      "avg_rank": 534.1875,
+      "best_rank": 217.0,
+      "median_rank": 455.5,
+      "discipline_count": 16,
+      "distance": 1.4763139624268562
+    },
+    {
+      "institution": "UNIVERSITY OF TRENTO",
+      "country": "ITALY",
+      "avg_rank": 820.6666666666666,
+      "best_rank": 155.0,
+      "median_rank": 643.0,
+      "discipline_count": 15,
+      "distance": 1.4928632585252886
+    },
+    {
+      "institution": "UNIVERSITY OF ZAGREB",
+      "country": "CROATIA",
+      "avg_rank": 735.7647058823529,
+      "best_rank": 169.0,
+      "median_rank": 800.0,
+      "discipline_count": 17,
+      "distance": 1.5024293234119113
+    },
+    {
+      "institution": "UNIVERSIDADE DO MINHO",
+      "country": "PORTUGAL",
+      "avg_rank": 722.9333333333333,
+      "best_rank": 272.0,
+      "median_rank": 612.0,
+      "discipline_count": 15,
+      "distance": 1.5187974454726063
+    },
+    {
+      "institution": "TEMPLE UNIVERSITY",
+      "country": "USA",
+      "avg_rank": 643.2352941176471,
+      "best_rank": 139.0,
+      "median_rank": 598.0,
+      "discipline_count": 17,
+      "distance": 1.5378487378837906
+    },
+    {
+      "institution": "VRIJE UNIVERSITEIT BRUSSEL",
+      "country": "BELGIUM",
+      "avg_rank": 664.8333333333334,
+      "best_rank": 280.0,
+      "median_rank": 659.0,
+      "discipline_count": 18,
+      "distance": 1.5465977332478649
+    },
+    {
+      "institution": "NORTHEASTERN UNIVERSITY",
+      "country": "USA",
+      "avg_rank": 507.5882352941176,
+      "best_rank": 125.0,
+      "median_rank": 424.0,
+      "discipline_count": 17,
+      "distance": 1.5471811529551853
+    },
+    {
+      "institution": "UNIVERSITE CATHOLIQUE LOUVAIN",
+      "country": "BELGIUM",
+      "avg_rank": 478.7894736842105,
+      "best_rank": 297.0,
+      "median_rank": 411.0,
+      "discipline_count": 19,
+      "distance": 1.5481077465832234
+    },
+    {
+      "institution": "UNIVERSITY OF ST ANDREWS",
+      "country": "SCOTLAND",
+      "avg_rank": 777.8,
+      "best_rank": 155.0,
+      "median_rank": 523.0,
+      "discipline_count": 15,
+      "distance": 1.5515854125521893
+    },
+    {
+      "institution": "FLORIDA INTERNATIONAL UNIVERSITY",
+      "country": "USA",
+      "avg_rank": 723.0666666666667,
+      "best_rank": 256.0,
+      "median_rank": 696.0,
+      "discipline_count": 15,
+      "distance": 1.5561767745265345
+    },
+    {
+      "institution": "UNIVERSITY OF TEXAS DALLAS",
+      "country": "USA",
+      "avg_rank": 747.8461538461538,
+      "best_rank": 199.0,
+      "median_rank": 495.0,
+      "discipline_count": 13,
+      "distance": 1.564931602810844
+    },
+    {
+      "institution": "TEXAS TECH UNIVERSITY SYSTEM",
+      "country": "USA",
+      "avg_rank": 620.25,
+      "best_rank": 334.0,
+      "median_rank": 618.0,
+      "discipline_count": 16,
+      "distance": 1.580398699464586
+    },
+    {
+      "institution": "UNIVERSIDADE DE SANTIAGO DE COMPOSTELA",
+      "country": "SPAIN",
+      "avg_rank": 768.3125,
+      "best_rank": 245.0,
+      "median_rank": 734.5,
+      "discipline_count": 16,
+      "distance": 1.5857741655406559
+    },
+    {
+      "institution": "RESEARCH CENTER JULICH",
+      "country": "GERMANY (FED REP GER)",
+      "avg_rank": 734.6923076923077,
+      "best_rank": 167.0,
+      "median_rank": 515.0,
+      "discipline_count": 13,
+      "distance": 1.618871312010369
+    },
+    {
+      "institution": "UNIVERSITY OF EAST ANGLIA",
+      "country": "ENGLAND",
+      "avg_rank": 567.8666666666667,
+      "best_rank": 219.0,
+      "median_rank": 541.0,
+      "discipline_count": 15,
+      "distance": 1.64457295388957
+    },
+    {
+      "institution": "UNIVERSITY OF PARMA",
+      "country": "ITALY",
+      "avg_rank": 817.1666666666666,
+      "best_rank": 192.0,
+      "median_rank": 778.5,
+      "discipline_count": 18,
+      "distance": 1.6582349177933484
+    },
+    {
+      "institution": "UNIVERSITY OF BATH",
+      "country": "ENGLAND",
+      "avg_rank": 724.4375,
+      "best_rank": 179.0,
+      "median_rank": 842.0,
+      "discipline_count": 16,
+      "distance": 1.6757740519665154
+    },
+    {
+      "institution": "UNIVERSITY OF NEBRASKA LINCOLN",
+      "country": "USA",
+      "avg_rank": 551.7222222222222,
+      "best_rank": 90.0,
+      "median_rank": 442.0,
+      "discipline_count": 18,
+      "distance": 1.67609849044085
+    },
+    {
+      "institution": "UNIVERSITY OF ZARAGOZA",
+      "country": "SPAIN",
+      "avg_rank": 735.6875,
+      "best_rank": 266.0,
+      "median_rank": 767.0,
+      "discipline_count": 16,
+      "distance": 1.7123690204109316
+    },
+    {
+      "institution": "BEN-GURION UNIVERSITY OF THE NEGEV",
+      "country": "ISRAEL",
+      "avg_rank": 676.0555555555555,
+      "best_rank": 352.0,
+      "median_rank": 675.5,
+      "discipline_count": 18,
+      "distance": 1.7620744602450766
+    },
+    {
+      "institution": "HONG KONG BAPTIST UNIVERSITY",
+      "country": "HONG KONG",
+      "avg_rank": 863.8125,
+      "best_rank": 166.0,
+      "median_rank": 763.5,
+      "discipline_count": 16,
+      "distance": 1.7708509554771443
+    },
+    {
+      "institution": "UNIV CONFEDERALE LEONARD DE VINCI",
+      "country": "nan",
+      "avg_rank": 687.9444444444445,
+      "best_rank": 352.0,
+      "median_rank": 670.5,
+      "discipline_count": 18,
+      "distance": 1.7838717046133195
+    },
+    {
+      "institution": "NANTES UNIVERSITE",
+      "country": "FRANCE",
+      "avg_rank": 784.5,
+      "best_rank": 363.0,
+      "median_rank": 675.0,
+      "discipline_count": 18,
+      "distance": 1.811907915238633
+    },
+    {
+      "institution": "NORMANDIE UNIV",
+      "country": "nan",
+      "avg_rank": 785.2777777777778,
+      "best_rank": 325.0,
+      "median_rank": 749.0,
+      "discipline_count": 18,
+      "distance": 1.8385109041602812
+    },
+    {
+      "institution": "UNIVERSITY OF SUSSEX",
+      "country": "ENGLAND",
+      "avg_rank": 619.2,
+      "best_rank": 132.0,
+      "median_rank": 779.0,
+      "discipline_count": 15,
+      "distance": 1.987464645550561
+    },
+    {
+      "institution": "DREXEL UNIVERSITY",
+      "country": "USA",
+      "avg_rank": 738.1333333333333,
+      "best_rank": 138.0,
+      "median_rank": 879.0,
+      "discipline_count": 15,
+      "distance": 2.0208636985417714
+    },
+    {
+      "institution": "UNIVERSITY OF TARTU",
+      "country": "ESTONIA",
+      "avg_rank": 725.3333333333334,
+      "best_rank": 240.0,
+      "median_rank": 566.0,
+      "discipline_count": 15,
+      "distance": 2.137552830479935
+    }
+  ],
+  "top_12": [
+    {
+      "institution": "EAST CHINA NORMAL UNIVERSITY",
+      "country": "CHINA MAINLAND",
+      "avg_rank": 601.7647058823529,
+      "best_rank": 90.0,
+      "median_rank": 395.0,
+      "discipline_count": 17,
+      "distance": 0.0
+    },
+    {
+      "institution": "UNIVERSITY OF QUEBEC",
+      "country": "CANADA",
+      "avg_rank": 536.7647058823529,
+      "best_rank": 133.0,
+      "median_rank": 387.0,
+      "discipline_count": 17,
+      "distance": 0.4864416685317765
+    },
+    {
+      "institution": "CAIRO UNIVERSITY",
+      "country": "EGYPT",
+      "avg_rank": 516.0588235294117,
+      "best_rank": 58.0,
+      "median_rank": 419.0,
+      "discipline_count": 17,
+      "distance": 0.4957371962170269
+    },
+    {
+      "institution": "KYUNG HEE UNIVERSITY",
+      "country": "SOUTH KOREA",
+      "avg_rank": 520.0,
+      "best_rank": 134.0,
+      "median_rank": 513.0,
+      "discipline_count": 17,
+      "distance": 0.5172457076740278
+    },
+    {
+      "institution": "UNITED STATES DEPARTMENT OF DEFENSE",
+      "country": "USA",
+      "avg_rank": 497.44444444444446,
+      "best_rank": 124.0,
+      "median_rank": 413.5,
+      "discipline_count": 18,
+      "distance": 0.5296398555015281
+    },
+    {
+      "institution": "UNIVERSITY OF WOLLONGONG",
+      "country": "AUSTRALIA",
+      "avg_rank": 576.625,
+      "best_rank": 85.0,
+      "median_rank": 392.5,
+      "discipline_count": 16,
+      "distance": 0.5393757155083
+    },
+    {
+      "institution": "IOWA STATE UNIVERSITY",
+      "country": "USA",
+      "avg_rank": 553.9444444444445,
+      "best_rank": 76.0,
+      "median_rank": 344.0,
+      "discipline_count": 18,
+      "distance": 0.5472167242366878
+    },
+    {
+      "institution": "NAGOYA UNIVERSITY",
+      "country": "JAPAN",
+      "avg_rank": 573.8823529411765,
+      "best_rank": 145.0,
+      "median_rank": 490.0,
+      "discipline_count": 17,
+      "distance": 0.5539774059968496
+    },
+    {
+      "institution": "DELFT UNIVERSITY OF TECHNOLOGY",
+      "country": "NETHERLANDS",
+      "avg_rank": 614.3888888888889,
+      "best_rank": 49.0,
+      "median_rank": 400.5,
+      "discipline_count": 18,
+      "distance": 0.5676958936846799
+    },
+    {
+      "institution": "UNIVERSITY OF GRANADA",
+      "country": "SPAIN",
+      "avg_rank": 479.27777777777777,
+      "best_rank": 85.0,
+      "median_rank": 363.0,
+      "discipline_count": 18,
+      "distance": 0.5685409485706325
+    },
+    {
+      "institution": "UNIVERSITE DE STRASBOURG",
+      "country": "FRANCE",
+      "avg_rank": 573.2777777777778,
+      "best_rank": 125.0,
+      "median_rank": 422.5,
+      "discipline_count": 18,
+      "distance": 0.5812989153692933
+    },
+    {
+      "institution": "UNIVERSITY OF BASQUE COUNTRY",
+      "country": "SPAIN",
+      "avg_rank": 509.3529411764706,
+      "best_rank": 152.0,
+      "median_rank": 444.0,
+      "discipline_count": 17,
+      "distance": 0.5830342952112509
+    }
+  ]
+}
