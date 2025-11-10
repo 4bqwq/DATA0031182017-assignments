@@ -126,6 +126,34 @@
 │   ├── pyproject.toml
 │   ├── uv.lock
 │   └── README.md
+├── 第七次作业/            # 第七次作业（基于 PyTorch-Tabular 的科研机构排名预测）
+│   ├── download/
+│   │   └── *.csv
+│   ├── data/
+│   │   ├── cleaned_records.json
+│   │   ├── institution_summary.json
+│   │   └── cleaned_records.meta.json
+│   ├── src/
+│   │   ├── __init__.py
+│   │   ├── data_processing.py
+│   │   └── metrics.py
+│   ├── scripts/
+│   │   ├── export_data.py
+│   │   ├── train_ranking.py
+│   │   └── predict_rank.py
+│   ├── logs/
+│   │   ├── ranking_metrics.json
+│   │   └── predicted_ranks.json
+│   ├── pictures/
+│   │   ├── categorical_feature_counts.png
+│   │   ├── model-architecture-detail.png
+│   │   ├── numerical_feature_distributions.png
+│   │   ├── train_embed.png
+│   │   ├── train_ft.png
+│   │   └── train_tabnet.png
+│   ├── pyproject.toml
+│   ├── uv.lock
+│   └── README.md
 
 ````
 
@@ -141,6 +169,7 @@
 | Lab 4    | 第四次作业 | 全球大学排名数据 SQL 分析：使用 PostgreSQL 数据库进行数据建模、导入和多维度查询分析。 |
 | Lab 5    | 第五次作业 | 全球高校聚类分析与排名预测：使用机器学习算法对全球高校进行分类分析，华东师范大学学科画像分析，以及学科排名预测模型构建。 |
 | Lab 6    | 第六次作业 | 科研机构排名预测与聚类分析：基于 ESI 学科数据，使用带嵌入层和残差结构的神经网络模型进行排名预测，并结合机构统计特征进行 KMeans 聚类分析。 |
+| Lab 7    | 第七次作业 | 基于 PyTorch-Tabular 的科研机构排名预测：通过特征工程（对数变换、比率特征）和 PyTorch-Tabular 框架优化模型。 |
 
 ---
 

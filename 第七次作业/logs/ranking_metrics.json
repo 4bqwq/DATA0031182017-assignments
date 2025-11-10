@@ -1,0 +1,58 @@
+{
+  "dataset_source": "data/cleaned_records.json",
+  "model_type": "embed",
+  "target_range": [
+    [
+      0.0,
+      8.818038250394299
+    ]
+  ],
+  "numeric_cols": [
+    "Documents",
+    "Citations",
+    "CitationsPerPaper",
+    "TopPapers",
+    "LogDocuments",
+    "LogCitations",
+    "LogCitationsPerPaper",
+    "LogTopPapers",
+    "DocsPerTopPaper",
+    "CitationsPerDocument",
+    "TopPapersRatio"
+  ],
+  "categorical_cols": [
+    "Discipline",
+    "Country",
+    "Institution"
+  ],
+  "target": "Rank",
+  "splits": {
+    "train": 20472,
+    "validation": 6824,
+    "test": 6825
+  },
+  "epochs": 120,
+  "batch_size": 512,
+  "learning_rate": 0.0003,
+  "seed": 42,
+  "metrics": {
+    "train": {
+      "mse": 8916.582965951848,
+      "rmse": 94.42765996227931,
+      "mae": 50.59956284922785,
+      "mape": 3.9036759580290856
+    },
+    "validation": {
+      "mse": 11590.829847606223,
+      "rmse": 107.66071636212637,
+      "mae": 63.79036004895482,
+      "mape": 7.131477038866847
+    },
+    "test": {
+      "mse": 12430.692271482416,
+      "rmse": 111.49301445150013,
+      "mae": 64.7595135293688,
+      "mape": 7.697911437462361
+    }
+  }
+}

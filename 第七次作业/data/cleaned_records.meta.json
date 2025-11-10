@@ -1,0 +1,16 @@
+{
+  "record_count": 34121,
+  "discipline_count": 22,
+  "institution_count": 9990,
+  "summary_count": 9990,
+  "fields": [
+    "Discipline",
+    "Institution",
+    "Country",
+    "Rank",
+    "Documents",
+    "Citations",
+    "CitationsPerPaper",
+    "TopPapers"
+  ]
+}
