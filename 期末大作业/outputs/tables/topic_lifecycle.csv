@@ -1,0 +1,10 @@
+topic_label,high_level_category,peak_month,peak_share,rise_time_months,half_life_months,revival_count
+COVID-19 Vaccine Progress,vaccine,2020-07-01,0.4827586206896552,6,1,0
+Federal Vaccine Mandates,vaccine,2021-07-01,0.42528735632183906,18,7,3
+Remote Work During COVID,remote_work,2020-03-01,0.26490066225165565,2,3,4
+Remote Work During Pandemic,remote_work,2020-01-01,0.24528301886792453,0,8,5
+Remote Work Opportunities,remote_work,2023-10-01,0.2564102564102564,45,1,1
+Remote Work Post-Pandemic,remote_work,2023-08-01,0.3068181818181818,38,1,0
+Remote Work Tips,remote_work,2020-05-01,0.2184873949579832,2,2,4
+Vaccine Mandates & Work,vaccine,2023-05-01,0.38181818181818183,23,3,2
+Vaccine Rollout Progress,vaccine,2020-12-01,0.48936170212765956,11,1,3

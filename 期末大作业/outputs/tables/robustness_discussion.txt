@@ -1,0 +1,13 @@
+## Robustness Checks Discussion
+
+1. **Metric Sensitivity (Retweets)**:
+   - The Gini coefficient calculated on Retweets is highly correlated (r=0.89) with Likes.
+   - This suggests that attention concentration is consistent across different engagement types.
+
+2. **Influence of Super-Users (Drop Top 1%)**:
+   - After removing the top 1% of authors, the difference in inequality between Vaccine and Remote Work topics remains -0.254 (p=0.003).
+   - This confirms that the structural difference is not solely driven by a few mega-influencers but is a property of the wider community.
+
+3. **Sample Size Stability**:
+   - Applying stricter filtering (N>=20 authors) changed the mean Gini by 0.027.
+   - The results are robust to small-sample artifacts.

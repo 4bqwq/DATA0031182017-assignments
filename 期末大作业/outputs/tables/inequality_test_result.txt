@@ -1,0 +1,7 @@
+Permutation Test: Difference in Mean Gini (Vaccine vs Remote Work)
+N_topics_vaccine: 4
+N_topics_remote: 5
+Mean Gini (Vaccine): 0.6947
+Mean Gini (Remote Work): 0.8951
+Observed Diff: -0.2003
+P-value (10k perms): 0.0135

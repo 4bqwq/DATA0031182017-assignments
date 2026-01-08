@@ -1,0 +1,13 @@
+# Statistical Modeling Results & Interpretation
+
+## Disclaimer
+These models represent associative relationships (correlations) controlled for covariates, not causal effects.
+
+## Model 1: Tweet Engagement (Log Likes)
+- **R-squared**: 0.428
+
+## Model 2: Attention Inequality (Gini) Over Time
+- **R-squared**: 0.471
+- The 'vaccine' category shows significantly **lower** baseline inequality compared to the reference category (coef=-0.23).
+- No significant interaction with time was found; the inequality gap between categories remains relatively stable over time.
+- Topics with larger author pools (log n_authors) tend to have different inequality structures (control variable significant).

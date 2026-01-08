@@ -1,0 +1,12 @@
+Metric,Value
+total_tweets,4229.0
+unique_authors,2884.0
+avg_likes,796.8775456228511
+median_likes,241.0
+missing_views_rate,0.0
+zero_views_rate,0.8139039962165997
+author_gini,0.8449121390457076
+top_1pct_author_share,0.3582137557917606
+kw_covid_pct,0.38094112083234805
+kw_vaccine_pct,0.47860014187751243
+kw_remote_work_pct,0.28399148734925517

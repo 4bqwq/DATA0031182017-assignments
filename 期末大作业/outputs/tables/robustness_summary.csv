@@ -1,0 +1,4 @@
+Check,Metric,Value,Conclusion
+Metric: Retweets,Correlation with Likes Gini,0.8936382447226173,High correlation
+Drop Top 1% Authors,Vaccine vs Remote Diff,-0.2539906343044882,P-value=0.003
+Strict Filtering (N>=20),Mean Gini Change,0.02682423448163862,Stable

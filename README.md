@@ -154,6 +154,21 @@
 │   ├── pyproject.toml
 │   ├── uv.lock
 │   └── README.md
+├── 期末大作业/            # 期末大作业（COVID-19 社交媒体舆论注意力结构分析）
+│   ├── data/
+│   ├── data_processed/
+│   ├── outputs/
+│   │   ├── figures/
+│   │   └── tables/
+│   ├── src/
+│   ├── TwitterCrawler-Selenium/
+│   ├── main.py
+│   ├── report.md
+│   ├── report.pdf
+│   ├── PPT.pdf
+│   ├── pyproject.toml
+│   ├── uv.lock
+│   └── README.md
 
 ````
 
@@ -170,6 +185,7 @@
 | Lab 5    | 第五次作业 | 全球高校聚类分析与排名预测：使用机器学习算法对全球高校进行分类分析，华东师范大学学科画像分析，以及学科排名预测模型构建。 |
 | Lab 6    | 第六次作业 | 科研机构排名预测与聚类分析：基于 ESI 学科数据，使用带嵌入层和残差结构的神经网络模型进行排名预测，并结合机构统计特征进行 KMeans 聚类分析。 |
 | Lab 7    | 第七次作业 | 基于 PyTorch-Tabular 的科研机构排名预测：通过特征工程（对数变换、比率特征）和 PyTorch-Tabular 框架优化模型。 |
+| Final    | 期末大作业 | COVID-19 社交媒体舆论注意力结构分析：包含数据采集、清洗、EDA、话题聚类与标注、统计建模及指标计算。 |
 
 ---
 

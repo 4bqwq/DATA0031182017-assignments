@@ -1,0 +1,237 @@
+[
+  {
+    "topic_id": 0,
+    "topic_label": "Vaccine Mandates & Work",
+    "one_sentence_summary": "Public debate centers on vaccine requirements for employment, with arguments spanning personal choice, workplace safety, economic impact, and systemic inequities affecting vulnerable workers.",
+    "high_level_category": "vaccine",
+    "frame_tags": [
+      "health mandate",
+      "economic impact",
+      "personal struggle",
+      "policy advocacy"
+    ],
+    "stance_profile": {
+      "mostly_informational": 0.2,
+      "mostly_personal_experience": 0.3,
+      "mostly_policy_or_advocacy": 0.4,
+      "mostly_argument_or_conflict": 0.1
+    },
+    "representative_keywords": [
+      "vaccine",
+      "work",
+      "covid",
+      "vaccinated",
+      "workers",
+      "home"
+    ]
+  },
+  {
+    "topic_id": 1,
+    "topic_label": "Federal Vaccine Mandates",
+    "one_sentence_summary": "The Biden administration is enforcing federal vaccine mandates requiring employers with 100+ employees to vaccinate workers or require weekly testing, with paid time off provided for vaccinations.",
+    "high_level_category": "vaccine",
+    "frame_tags": [
+      "health mandate",
+      "policy enforcement",
+      "economic impact",
+      "workplace safety"
+    ],
+    "stance_profile": {
+      "mostly_informational": 0.6,
+      "mostly_personal_experience": 0.1,
+      "mostly_policy_or_advocacy": 0.2,
+      "mostly_argument_or_conflict": 0.1
+    },
+    "representative_keywords": [
+      "vaccinated",
+      "vaccine",
+      "workers",
+      "covid",
+      "employees",
+      "biden"
+    ]
+  },
+  {
+    "topic_id": 2,
+    "topic_label": "Remote Work Opportunities",
+    "one_sentence_summary": "Tweets promote and list remote, work-from-home job openings across various industries with links to apply.",
+    "high_level_category": "remote_work",
+    "frame_tags": [
+      "job_search",
+      "flexible_work",
+      "online_applications",
+      "career_advice"
+    ],
+    "stance_profile": {
+      "mostly_informational": 0.95,
+      "mostly_personal_experience": 0.03,
+      "mostly_policy_or_advocacy": 0.01,
+      "mostly_argument_or_conflict": 0.01
+    },
+    "representative_keywords": [
+      "remote",
+      "work",
+      "home",
+      "job",
+      "apply",
+      "customer"
+    ]
+  },
+  {
+    "topic_id": 3,
+    "topic_label": "Remote Work During Pandemic",
+    "one_sentence_summary": "Global companies and governments are urging employees to work from home to curb the spread of COVID-19, with some extending policies into 2021.",
+    "high_level_category": "remote_work",
+    "frame_tags": [
+      "health mandate",
+      "policy shift",
+      "economic impact",
+      "personal experience"
+    ],
+    "stance_profile": {
+      "mostly_informational": 0.4,
+      "mostly_personal_experience": 0.3,
+      "mostly_policy_or_advocacy": 0.2,
+      "mostly_argument_or_conflict": 0.1
+    },
+    "representative_keywords": [
+      "work",
+      "home",
+      "covid",
+      "employees",
+      "office",
+      "coronavirus"
+    ]
+  },
+  {
+    "topic_id": 4,
+    "topic_label": "COVID-19 Vaccine Progress",
+    "one_sentence_summary": "Public discourse highlights rapid development and promising trial results of COVID-19 vaccines from Moderna, Pfizer/BioNTech, and Oxford/AstraZeneca, with optimism for widespread availability.",
+    "high_level_category": "vaccine",
+    "frame_tags": [
+      "scientific breakthrough",
+      "public health relief",
+      "government collaboration",
+      "trial progress"
+    ],
+    "stance_profile": {
+      "mostly_informational": 0.7,
+      "mostly_personal_experience": 0.2,
+      "mostly_policy_or_advocacy": 0.05,
+      "mostly_argument_or_conflict": 0.05
+    },
+    "representative_keywords": [
+      "vaccine",
+      "moderna",
+      "covid",
+      "trials",
+      "mrna",
+      "coronavirus"
+    ]
+  },
+  {
+    "topic_id": 5,
+    "topic_label": "Remote Work Post-Pandemic",
+    "one_sentence_summary": "Public discourse explores the lasting impact of remote work, weighing its productivity and flexibility benefits against challenges like isolation and hybrid workplace transitions.",
+    "high_level_category": "remote_work",
+    "frame_tags": [
+      "productivity gains",
+      "hybrid model debate",
+      "mental health concerns",
+      "economic impact",
+      "workplace flexibility"
+    ],
+    "stance_profile": {
+      "mostly_informational": 0.6,
+      "mostly_personal_experience": 0.2,
+      "mostly_policy_or_advocacy": 0.1,
+      "mostly_argument_or_conflict": 0.1
+    },
+    "representative_keywords": [
+      "remote",
+      "working",
+      "home",
+      "pandemic",
+      "employees",
+      "office"
+    ]
+  },
+  {
+    "topic_id": 6,
+    "topic_label": "Remote Work During COVID",
+    "one_sentence_summary": "Users discuss the importance and challenges of working from home during the pandemic, highlighting health risks, workplace inequities, and personal experiences with remote work policies.",
+    "high_level_category": "remote_work",
+    "frame_tags": [
+      "workplace_policy",
+      "health_safety",
+      "economic_inequality",
+      "personal_experience"
+    ],
+    "stance_profile": {
+      "mostly_informational": 0.3,
+      "mostly_personal_experience": 0.4,
+      "mostly_policy_or_advocacy": 0.2,
+      "mostly_argument_or_conflict": 0.1
+    },
+    "representative_keywords": [
+      "home",
+      "covid",
+      "work",
+      "working",
+      "people",
+      "day"
+    ]
+  },
+  {
+    "topic_id": 7,
+    "topic_label": "Remote Work Tips",
+    "one_sentence_summary": "Users share practical advice and resources to help employees succeed while working remotely, especially during the pandemic.",
+    "high_level_category": "remote_work",
+    "frame_tags": [
+      "productivity",
+      "employee_support",
+      "work_from_home",
+      "pandemic_adaptation"
+    ],
+    "stance_profile": {
+      "mostly_informational": 0.85,
+      "mostly_personal_experience": 0.1,
+      "mostly_policy_or_advocacy": 0.03,
+      "mostly_argument_or_conflict": 0.02
+    },
+    "representative_keywords": [
+      "remote",
+      "working",
+      "home",
+      "tips",
+      "employees",
+      "help"
+    ]
+  },
+  {
+    "topic_id": 8,
+    "topic_label": "Vaccine Rollout Progress",
+    "one_sentence_summary": "Public discourse tracks the pace, distribution, and public response to COVID-19 vaccine rollout across age groups and regions.",
+    "high_level_category": "vaccine",
+    "frame_tags": [
+      "public health progress",
+      "distribution logistics",
+      "personal vaccination experience",
+      "policy timeline"
+    ],
+    "stance_profile": {
+      "mostly_informational": 0.7,
+      "mostly_personal_experience": 0.2,
+      "mostly_policy_or_advocacy": 0.05,
+      "mostly_argument_or_conflict": 0.05
+    },
+    "representative_keywords": [
+      "vaccine",
+      "covid",
+      "vaccination",
+      "dose",
+      "people",
+      "vaccinated"
+    ]
+  }
+]
